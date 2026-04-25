@@ -3,9 +3,9 @@ Hello Guys,  this is my profile.
 <h1 align="center">Hi 👋, I'm Sharat Hemappa mavinatop</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharat1sv24is039-lab&label=Profile%20views&color=0e75b6&style=flat" alt="sharat1sv24is039-lab" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharat2602-dev&label=Profile%20views&color=0e75b6&style=flat" alt="sharat2602-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharat1sv24is039-lab" alt="sharat1sv24is039-lab" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharat2602-dev" alt="sharat2602-dev" /></a> </p>
 
 - 🌱 I’m currently learning **Java**
 
